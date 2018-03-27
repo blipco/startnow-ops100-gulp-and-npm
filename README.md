@@ -4,7 +4,7 @@
 
 -- This is an assignment where I learned how to use NPM and GULP.
 
-## **INSTRUCTIONS**
+## **INSTRUCTIONS:**
 
 1. Open Terminal/Git Bash.
 2. Type "cd oca/startnow-ops100-gulp-and-npm".
@@ -31,4 +31,4 @@
 
 ## **STYLING:**
 
--- All styling can be found in the [CSS FILE](/dist/styles.css)
+-- All styling can be found in the [CSS FILE](dist/styles.css)
