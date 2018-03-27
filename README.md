@@ -8,9 +8,9 @@
 
 1. Open Terminal/Git Bash.
 2. Type "cd oca/startnow-ops100-gulp-and-npm".
-3. Type "node server/index.js"
-4. Open an Internet Browser Window
-5. Type "localhost:8080"
+3. Type "node server/index.js".
+4. Open an Internet Browser Window.
+5. Type "localhost:8080".
 6. Click the "More cats right meow!!" button.
 7. Repeat step 6 as many times as you want.
 
@@ -31,4 +31,4 @@
 
 ## **STYLING:**
 
--- All styling can be found in the [CSS FILE](/src/css)
+-- All styling can be found in the [CSS FILES](/src/css)
