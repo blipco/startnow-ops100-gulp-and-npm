@@ -31,4 +31,4 @@
 
 ## **STYLING:**
 
--- All styling can be found in the [CSS FILE](dist/styles.css)
+-- All styling can be found in the [CSS FILE](/styles.css)
